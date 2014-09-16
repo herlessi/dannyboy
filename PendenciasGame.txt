@@ -1,0 +1,10 @@
+- controle de lançamentos de inimigos(generico);
+- movimento,disparo e colisão ( nave simples);
+- movimento,disparo e colisão ( nave de combate a distancia);
+- controle de pontos;
+- controle de níveis;
+- mostrar contador tempo disparo;
+- sprites casa;
+- sprites naves;
+- melhorar sprite garoto correndo;
+- configurar musica background;
